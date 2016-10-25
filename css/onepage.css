@@ -897,9 +897,9 @@ ul.top-right li a:hover.instagram{
 
 /* ------------ Paralax background ------------ */
 #bg-paralax {
-  background:url("../images/paralax-index1.jpg") no-repeat;
-  color: #fff;
-  padding:10% 0;
+  
+  
+  
 }
 #bg-paralax , #testinomial{
   background-size:cover;
