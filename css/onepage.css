@@ -524,7 +524,7 @@ ul.top-right li a:hover,
 #navigation.affix .navbar-default .navbar-nav > .active a, #navigation.affix .navbar-default .navbar-nav > .active a:hover,
 #navigation.affix .navbar-default .navbar-nav > .active a:focus{
 	color:#07AAA5;
-	border-bottom:3px solid #82b440;
+	border-bottom:3px solid #27ae60;
 	background-color:transparent;
 }	
 
@@ -832,9 +832,11 @@ ul.top-right li a:hover.instagram{
 	border-radius:50%;
 	opacity: 1;
 }
-#paralax-slider .owl-controls .owl-page span:hover,
+#paralax-slider .owl-controls .owl-page span:hover {
+	background:#6BB156;
+}
 #paralax-slider .owl-controls .active span{
-    background:#6BB156;
+    background: #27ae60;
 }
 
 
@@ -1143,7 +1145,7 @@ ul.top-right li a:hover.instagram{
 	color:#31aae1;
 }
 .we-do .do-wrap:hover .top, we-do .do-wrap:focus .top, .we-do .do-wrap:hover span, .we-do .do-wrap:focus span{
-	background:#82b440;
+	background:#27ae60;
 	
 }	
 
@@ -1810,7 +1812,7 @@ footer .breadcrumb li a:hover, footer .breadcrumb li a:focus{
   font-size:20px;
   right:25px;
   z-index:800;
-  background:#82b440;
+  background: #27ae60;
   color:#fff;
   border-radius:5px;
   height:40px;
@@ -1820,7 +1822,7 @@ footer .breadcrumb li a:hover, footer .breadcrumb li a:focus{
   opacity:0;
 }
 .go-top:hover, .go-top:focus{
-	background:#07AAA5;
+	background:#9b59b6;
 	color:#fff;
 }
 .go-top.show {
