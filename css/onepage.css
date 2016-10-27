@@ -799,12 +799,20 @@ ul.top-right li a:hover.instagram{
 
 /* ------------ Banner With Text Rotator ------------ */
 .text-rotator{
-	background:url("../images/banner_text.jpg");
+	
 	padding-top:200px;
 	background-size:cover;
 	background-attachment:fixed;
 	background-position:center center;
 	width:100%;
+	background:
+      
+      linear-gradient(
+      rgba(31,38,51, 0.5),
+      rgba(31, 38, 51, 0.5)
+      ),
+      url("../images/banner_text.jpg");
+
 }
 .text-rotator #paralax-slider{
 	padding:15% 0;
@@ -1539,8 +1547,12 @@ ul.top-right li a:hover.instagram{
 
 /* ------------ Testinomials ------------ */
 #testinomial{
-	background:url(../images/bg-testinomial.jpg) no-repeat;
+
+	
+     
+	background: url(../images/bg-testinomial.jpg) no-repeat;
 	color:#fff;
+
 }
 #testinomial h2{ color:#82B440; }
 #testinomial p{ color:#fff; }
