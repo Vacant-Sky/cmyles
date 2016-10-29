@@ -2531,4 +2531,9 @@ margin-top: 30px;
    padding-bottom: 30px;
   }
 
+  @media (max-width: 768px) {
+   #about .thinker-wrap {
+   padding-bottom: 60px;
+  }
+
 
