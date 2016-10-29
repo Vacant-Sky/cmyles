@@ -2526,3 +2526,9 @@ margin-top: 30px;
 }
 
 
+@media (max-width: 768px) {
+   #team #team1 {
+   padding-bottom: 30px;
+  }
+
+
