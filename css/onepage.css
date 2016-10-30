@@ -2381,7 +2381,7 @@ margin-top: 30px;
 		top:14px;
 	}
 	.navbar-toggle {
-     right: -100px !important;
+     right: -40px;
   }
   .main-button { top: 10px;}
 	  .push_nav_brand {
@@ -2521,6 +2521,7 @@ margin-top: 30px;
 	
 	#main-navigation{
 		top:0;
+		left: 0px;
 	}
 	
 }
