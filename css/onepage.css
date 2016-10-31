@@ -2309,7 +2309,8 @@ ul.category li a .date{
 @media screen and (max-width: 1024px){
 	
 	h2{ font-size:36px; }
-	h3{ font-size:20px; }
+
+	
 	h4{ font-size:16px; }
 	
 }
@@ -2543,4 +2544,12 @@ margin-top: 30px;
     margin-left: -30px;
   }
 }
+
+@media (max-width: 768px)  {
+   h3  {
+    font-size: 50px;
+  }
+}
+
+
 
