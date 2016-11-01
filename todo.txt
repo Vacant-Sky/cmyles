@@ -1,5 +1,0 @@
---Update the Favicon
---Update the Logo
---Add Google Analytics Tags
---Add Blog
---Add Chat Functionality(Drift)
