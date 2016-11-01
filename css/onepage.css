@@ -2135,11 +2135,5 @@ margin-top: 30px;
   }
 }
 
-@media (max-width: 768px)  {
-   div.carousel-caption  {
-   width: 308px;  
-   margin-left: -10px;
-}
-
 
 
